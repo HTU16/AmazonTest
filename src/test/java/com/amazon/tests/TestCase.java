@@ -18,7 +18,7 @@ public class TestCase {
         if (actualTitle.equals(title)){
             System.out.println("Baslik bekledigi gibi geldi.Dogrulama gecti");
         }else {
-            System.out.println("Baslik beklendigi gibi GELMEDI. Dogrulama GECMEDI");
+            System.out.println("Baslik beklendigi gibi GELMEDI.Dogrulama GECMEDI");
         }
 
         driver.get("https://www.amazon.com.tr/");
